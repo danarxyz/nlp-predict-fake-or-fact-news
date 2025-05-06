@@ -16,7 +16,7 @@ It uses sentiment analysis and fake-news classification using VADER, CountVector
 - Data visualization with Matplotlib & Seaborn
 - Dataset: *TripAdvisor Hotel Reviews*, *TripAdvisor Hotel Reviews*, *BBC News*, *Book Review Sample*, *Fake News Data*, *News Articles*
 
-## File Structure
+## 📁 Folder Structure
 - `data/`: Contains the raw CSV dataset
 - `notebooks/`: Contains the full practice notebook used during training
 
@@ -27,7 +27,7 @@ It uses sentiment analysis and fake-news classification using VADER, CountVector
 - Evaluate models with real-world datasets
 - Learn how to structure and document a data science project
 
-## Status
+## 🧪 Project Status
 This project is under active development as part of my NLP course from Udemy by 365 Careers.
 Expect updates as I learn more advanced techniques like Topic Modeling (LDA/LSA) and Deep Learning-based NLP.
 
